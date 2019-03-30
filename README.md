@@ -8,4 +8,7 @@ Group 1
 05111740000191 - Alfin Pradana
 
 We all contribute at this project, we solve the problem together and distribute the job section equally.
+
+Based on the assignment, we decide to make puzzle 8 solver program. using bfs algorithm.
+
 hereby we upload the document.
